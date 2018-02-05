@@ -13,11 +13,16 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "del": "^3.0.0",
     "gulp": "^3.9.1",
-    "gulp-less": "^3.3.2"
+    "gulp-less": "^3.3.2",
+    "gulp-rename": "^1.2.2"
   },
   "bugs": {
     "url": "https://github.com/dengzhiqiang/gulpDeng/issues"
   },
-  "homepage": "https://github.com/dengzhiqiang/gulpDeng#readme"
+  "homepage": "https://github.com/dengzhiqiang/gulpDeng#readme",
+  "dependencies": {
+    "moment": "^2.20.1"
+  }
 }
